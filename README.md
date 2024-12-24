@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Sales Project for Data Analysis**
+- 🔭 I’m currently working on as a **Tableau Consultant**
 
-- 🌱 I’m currently learning **Power BI,**
+- 🌱 I’m currently learning **Power BI & Tableau Prep,**
 
 - 👯 I’m looking to collaborate on **Netflix EDA Real project**
 
